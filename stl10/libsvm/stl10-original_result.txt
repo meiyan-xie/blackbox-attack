@@ -1,0 +1,3 @@
+STL10 test accuracy:
+run svm_predict.py directly
+lib svm Accuracy = 28.9125% (2313/8000)

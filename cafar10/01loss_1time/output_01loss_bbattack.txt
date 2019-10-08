@@ -1,0 +1,214 @@
+Starting /home/m/mx42/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/m/mx42 is not in AFS -- skipping quota check
+========================
+
+On host node151 :
+	 13:20:43 up 46 days, 15:00,  0 users,  load average: 1.66, 1.69, 2.75
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+Kerberos : 
+AFS      : 
+
+=== === === Start Python Information === === ===
+1. The default python is Anaconda Python 3
+
+2. To instead use Anaconda Python 2 :
+
+	echo 'module load python2' > ~/.modules
+
+	Then log out / log in 
+=== === === End Python Information === === ===
+
+Running your ~/.modules file:
+
+Running your /home/m/mx42/.modules file:
+Oracle model evaluation on clean data #9800:
+correct_count:  3826
+Test accuray tensor:  0.39040816326530614
+Initialized weights
+Epoch #0:
+Current x_sub's size is 200
+Get label for x_sub cost 32.0
+Substitute data augmentation processing
+Augmentation cost 0.7 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  2692
+Test accuray tensor:  0.2746938775510204
+Epoch #1:
+Current x_sub's size is 400
+Get label for x_sub cost 63.2
+Substitute data augmentation processing
+Augmentation cost 1.3 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #2:
+Current x_sub's size is 800
+Get label for x_sub cost 127.7
+Substitute data augmentation processing
+Augmentation cost 2.6 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  1292
+Test accuray tensor:  0.13183673469387755
+Epoch #3:
+Current x_sub's size is 1600
+Get label for x_sub cost 252.2
+Substitute data augmentation processing
+Augmentation cost 4.9 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #4:
+Current x_sub's size is 3200
+Get label for x_sub cost 509.4
+Substitute data augmentation processing
+Augmentation cost 9.8 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  1038
+Test accuray tensor:  0.10591836734693877
+Epoch #5:
+Current x_sub's size is 6400
+Get label for x_sub cost 1030.8
+Substitute data augmentation processing
+Augmentation cost 21.6 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #6:
+Current x_sub's size is 12800
+Get label for x_sub cost 2040.8
+Substitute data augmentation processing
+Augmentation cost 39.0 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  424
+Test accuray tensor:  0.04326530612244898
+Epoch #7:
+Current x_sub's size is 12800
+Get label for x_sub cost 2074.2
+Substitute data augmentation processing
+Augmentation cost 45.7 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #8:
+Current x_sub's size is 12800
+Get label for x_sub cost 2077.2
+Substitute data augmentation processing
+Augmentation cost 43.2 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  311
+Test accuray tensor:  0.03173469387755102
+Epoch #9:
+Current x_sub's size is 12800
+Get label for x_sub cost 2089.6
+Substitute data augmentation processing
+Augmentation cost 36.7 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #10:
+Current x_sub's size is 12800
+Get label for x_sub cost 2110.7
+Substitute data augmentation processing
+Augmentation cost 28.5 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  405
+Test accuray tensor:  0.0413265306122449
+Epoch #11:
+Current x_sub's size is 12800
+Get label for x_sub cost 2098.5
+Substitute data augmentation processing
+Augmentation cost 42.1 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #12:
+Current x_sub's size is 12800
+Get label for x_sub cost 2027.3
+Substitute data augmentation processing
+Augmentation cost 38.0 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  493
+Test accuray tensor:  0.05030612244897959
+Epoch #13:
+Current x_sub's size is 12800
+Get label for x_sub cost 2025.2
+Substitute data augmentation processing
+Augmentation cost 42.8 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #14:
+Current x_sub's size is 12800
+Get label for x_sub cost 2025.3
+Substitute data augmentation processing
+Augmentation cost 40.4 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  267
+Test accuray tensor:  0.027244897959183674
+Epoch #15:
+Current x_sub's size is 12800
+Get label for x_sub cost 2029.9
+Substitute data augmentation processing
+Augmentation cost 39.7 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #16:
+Current x_sub's size is 12800
+Get label for x_sub cost 2060.6
+Substitute data augmentation processing
+Augmentation cost 42.3 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  184
+Test accuray tensor:  0.018775510204081632
+Epoch #17:
+Current x_sub's size is 12800
+Get label for x_sub cost 2030.4
+Substitute data augmentation processing
+Augmentation cost 34.8 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+Epoch #18:
+Current x_sub's size is 12800
+Get label for x_sub cost 2022.7
+Substitute data augmentation processing
+Augmentation cost 41.8 seconds
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+correct_count:  146
+Test accuray tensor:  0.01489795918367347
+Epoch #19:
+Current x_sub's size is 12800
+Get label for x_sub cost 2034.9
+getting grads on epsilon=0.0625
+generating adversarial examples
+Oracle model FGSM attack's accuracy on adversarial samples #9800:
+
+
+Final results:
+Oracle model evaluation on clean data #9800:
+Substitute model evaluation on clean data: #9800:
+Test_accuracy: 0.32041

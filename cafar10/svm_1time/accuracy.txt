@@ -1,0 +1,6 @@
+liblinear
+s=0
+Accuracy = 38.26% (3826/10000)
+
+s=2
+Accuracy = 38.58% (3858/10000)
